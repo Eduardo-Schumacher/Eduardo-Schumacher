@@ -23,3 +23,8 @@
 #
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-schumacher-meneghelli-05b83b1b3/)
+
+
+###
+
+ ![Snake animation](https://github.com/Eduardo-Schumacher/Eduardo-Schumacher/blob/output/github-contribution-grid-snake.svg)
