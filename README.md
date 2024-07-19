@@ -1,4 +1,5 @@
-# Hello, my name is Eduardo, and welcome to my GitHub // Olá, meu nome é Eduardo, e bem-vindo ao meu GitHub
+# Hello, my name is Eduardo, and welcome to my GitHub // 
+Olá, meu nome é Eduardo, e bem-vindo ao meu GitHub
 
 <div align="">
   <a href="https://github.com/Eduardo-Schumacher">
