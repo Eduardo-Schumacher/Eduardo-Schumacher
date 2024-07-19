@@ -24,3 +24,4 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-schumacher-meneghelli-05b83b1b3/)
 
+![360_F_567104052_0N25E3OHSwxqg20fF3ni8a7kTru260Sd](https://github.com/user-attachments/assets/6bd05fa4-ac01-4f4d-a0b4-8c0f514bbe32)
